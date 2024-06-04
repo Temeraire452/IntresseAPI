@@ -1,1 +1,7 @@
-# IntresseAPI
+Hämta alla personer ![Hämta alla](https://github.com/Temeraire452/IntresseAPI/assets/144246572/6cc8c3ba-cb7e-4edd-b8ca-e155d17a3a18)
+Hämta alla intressen som är kopplade till en specifik person ![Intressen för person](https://github.com/Temeraire452/IntresseAPI/assets/144246572/651ded7a-3ab8-410d-86c1-6bd6aa462109)
+Hämta alla länkar som är kopplade till en specifik person ![Länkar för person](https://github.com/Temeraire452/IntresseAPI/assets/144246572/5c2b635a-0b7d-4c19-b936-717b2aa53409)
+Koppla en person till ett nytt intresse ![Länkar för person1](https://github.com/Temeraire452/IntresseAPI/assets/144246572/49be0015-ed1c-49a4-8a7a-7481b39783f5)
+![Länkar för person2](https://github.com/Temeraire452/IntresseAPI/assets/144246572/80309c00-b308-498e-82cf-62931b2bc95a)
+Lägga in nya länkar för en specifik person och ett specifikt intresse ![Person nytt intresse1](https://github.com/Temeraire452/IntresseAPI/assets/144246572/bac34467-172a-484b-8a7a-f3fe97ee436b)
+![Person nytt intresse2](https://github.com/Temeraire452/IntresseAPI/assets/144246572/520ea96f-373c-497d-9f5b-56bd396cb0a6)
